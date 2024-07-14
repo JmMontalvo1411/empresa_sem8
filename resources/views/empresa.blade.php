@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="container">
-    <h1 class="mt-4">Inicio</h1>
-    <p>Bienvenido a la página de inicio.</p>
+    <h1 class="mt-4">Empresa</h1>
+    <p>Información sobre la empresa.</p>
 </div>
 @endsection
